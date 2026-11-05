@@ -172,7 +172,7 @@ export default function Home() {
 
       <footer className="border-t border-slate-200 bg-white px-6 py-8">
         <div className="mx-auto flex max-w-7xl flex-col justify-between gap-3 text-sm text-slate-500 sm:flex-row">
-          <p>© {new Date().getFullYear()} SkillBridge. Built for collaborative learning.</p>
+          <p>© 2026 SkillBridge. Built for collaborative learning.</p>
           <p>Learn together. Grow together.</p>
         </div>
       </footer>
